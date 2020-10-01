@@ -1,5 +1,8 @@
+#this is static code and we can also make it dynamic by storing data in DATABASE
 id=int(1010)        """Database"""
 pa=int(125143)      """Database"""
+
+#Main Logic
 while True:
     i=int(input("ID : "))
     p=int(input("Password : "))
